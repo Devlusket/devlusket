@@ -1,8 +1,8 @@
 # 💫 About Me:
-<br>🌱 I'm a student learning front-end development, currently focused on becoming a full-stack developer. I love building websites and web apps that look good and work well.
-        I know HTML, CSS, JavaScript, and TypeScript, and I’ve been working with tools like React, Tailwind, Next.js, Vite, Node.js, Git and GitHub. I also know the basics of Vue.js and Angular.
-        For design, I use Figma and Canva to put together clean and simple layouts.
-        I’ve also started exploring the backend side of things, and I know the basics—like using packages such as json-server to create fake APIs and simulate a database.
+<br>🌱 I'm a student learning front-end development, currently focused on becoming a full-stack developer. I love building websites and web apps that look good and work well.<br>
+        I know HTML, CSS, JavaScript, and TypeScript, and I’ve been working with tools like React, Tailwind, Next.js, Vite, Node.js, Git and GitHub. I also know the basics of Vue.js and Angular.<br>
+        For design, I use Figma and Canva to put together clean and simple layouts.<br>
+        I’ve also started exploring the backend side of things, and I know the basics—like using packages such as json-server to create fake APIs and simulate a database.<br>
         Right now, I’m learning, improving, and creating cool projects as I grow my skills. Always up for a new challenge and ready to work!<br>
 
 
