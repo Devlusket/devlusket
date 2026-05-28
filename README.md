@@ -1,5 +1,11 @@
 #  About Me:
-Desenvolvedor Backend Júnior com foco em Java e Spring Boot, construindo APIs REST seguras, escaláveis e bem documentadas. Atualmente trabalho com Spring Boot 3, Spring Security (JWT stateless), JPA/Hibernate, PostgreSQL, MongoDB e Flyway para migrations. Tenho experiência prática em arquitetura em camadas, mapeamento com MapStruct, documentação com Swagger, deploy no Railway e Angular para fechamento completo de ciclo. Antes de migrar para o ecossistema Java, atuei como desenvolvedor Fullstack no ecossistema JavaScript com TypeScript, React, Next.js 14, PostgreSQL via Prisma e infraestrutura na Vercel. Esse histórico me dá uma visão completa do ciclo de uma aplicação, desde o banco de dados até a interface. Busco minha primeira oportunidade como desenvolvedor Backend Java, onde possa contribuir com times que valorizam código limpo, boas práticas e aprendizado contínuo.
+Desenvolvedor Backend Júnior com foco em Java e Spring Boot, com experiência em entrega de sistemas completos para clientes reais do levantamento de requisitos ao deploy em produção.
+Trabalho com Spring Boot 3, Spring Security, JPA/Hibernate, PostgreSQL e Flyway. 
+Tenho experiência prática em arquitetura em camadas, geração de relatórios PDF, documentação com Swagger e deploy automatizado via Render/Neon/Vercel. 
+No frontend, construo interfaces com Angular, Tailwind CSS, PWA e Next.js.
+
+Antes de migrar para Java, atuei como desenvolvedor Fullstack no ecossistema JavaScript com TypeScript, React, Next.js e PostgreSQL via Prisma. Esse histórico me dá visão completa do ciclo de uma aplicação, do banco de dados até a interface.
+Inglês fluente (C1) — disponível para oportunidades remotas.
 
 
 ##  Socials:
